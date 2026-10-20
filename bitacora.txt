@@ -1,9 +1,0 @@
-http://127.0.0.1:5500/index.html
-protocolo: http://
-host :
-puerto:
-la ruta:
-metodo de peticion:
-codigo de estado:
-
-que rol cumpliran html,css y javascript- ejemplos completos 
